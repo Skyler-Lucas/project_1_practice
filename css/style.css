@@ -1,3 +1,9 @@
-h1 {
-    
+header {
+    background-color:beige
+}
+nav {
+    background-color:aqua
+}
+div middle-wrapper {
+    background-color:chartreuse
 }
